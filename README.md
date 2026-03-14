@@ -45,7 +45,7 @@
 <h2 align="left">My Projects :</h2> 
 
 - Cloud Video Streaming Platform (Netflix Style)
-- Google Drive Clone (NestJS + Prisma + AWS S3)
-- Vercel Clone Deployment Platform
+- Welth-Finance Platfrom
+- Forever-Cloth
 - Food Ordering FullStack Application
-- LeetCode Style Coding Platform
+- Gemini_clone
