@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishvora22&label=Profile%20views&color=0e75b6&style=flat" alt="krishvora" /> </p>
   
 - 📄 Resume : [KrishVora_Resume](https://drive.google.com/file/d/1HbnMsceOMuwzSFQk6ljX9xO7RaAGC9hG/view?usp=drive_link)
-- 📫 How to reach me krishvora@email.com  
+- 📫 How to reach me krishvora@gmail.com  
 - ⚡ LeetCode : [LeetCode](https://leetcode.com/krishvora22)
 - 🤝 I’m looking to collaborate on **Open Source Projects** 
 
