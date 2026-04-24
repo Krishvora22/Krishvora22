@@ -11,7 +11,7 @@
 <h2 align="left">Connect with me:</h2>
 
 - Linkedin : [kris-vora](https://www.linkedin.com/in/kris-vora-96b9412a0/)
-- Mail : krishvora@email.com
+- Mail : krishvora@gmail.com
 
 <h2 align="left">Languages and Tools:</h2>
 
