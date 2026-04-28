@@ -4,11 +4,9 @@
 <p align="center">
   <a href="mailto:krishvora22@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/krishvora22">LinkedIn</a> •
-  <a href="https://github.com/krishvora22">GitHub</a>
-</p>
+  <a href="https://github.com/krishvora22">GitHub</a> •
+  <a href="https://leetcode.com/u/krishvora22/">Leetcode</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishvora22&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -29,7 +27,7 @@ Actively targeting **Backend / Cloud / DevOps Engineering** roles.
 
 ### Cloud & DevOps
 - **AWS:** EC2, S3, Lambda, ECS, ECR, SQS, CloudFront, IAM
-- **Containers:** Docker, DockerHub
+- **Containers:** Docker, DockerHub , Kubernetes
 
 ### Backend & APIs
 - **Runtime & Frameworks:** Node.js, Nest.js, Express.js, REST APIs, Microservices
@@ -41,9 +39,6 @@ Actively targeting **Backend / Cloud / DevOps Engineering** roles.
 
 ### Frontend
 - React.js, Next.js
-
-### AI / ML Integration
-- Gemini API, Receipt Scanning, AI-driven Financial Insights
 
 ### Streaming & Media
 - HLS Streaming, Adaptive Bitrate, CloudFront CDN, S3 Lifecycle Policies
