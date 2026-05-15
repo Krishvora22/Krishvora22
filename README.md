@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:krishvora22@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/krishvora22">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/kris-vora-96b9412a0/">LinkedIn</a> •
   <a href="https://github.com/krishvora22">GitHub</a> •
   <a href="https://leetcode.com/u/krishvora22/">Leetcode</a>
 
@@ -102,6 +102,6 @@ Charotar University of Science & Technology (CHARUSAT), Anand, Gujarat · Jul 20
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/krishvora22
+- **LinkedIn:** https://www.linkedin.com/in/kris-vora-96b9412a0/
 - **Email:** krishvora22@gmail.com
 - **GitHub:** https://github.com/krishvora22
